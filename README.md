@@ -5,4 +5,4 @@ This system can help avoid the congestion in traffic due to illegally parked veh
 
 For this system we have used an Arduino ESP8266 for the precossing of the data
 We used Firebase as a server to store and relay the data to other platforms
-The original model was made using IR sensors and Arduino
+The original model was made using IR sensors and Arduino.
