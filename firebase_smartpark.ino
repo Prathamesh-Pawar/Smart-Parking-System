@@ -6,8 +6,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "samy-dacc6.firebaseio.com"  //should not have http:// and the end /
 #define FIREBASE_AUTH "6MtMdSlU0HEaWx5zaCx6vSS8MygeBgA0OcrRfMWD"  // go to settings in firebase,select project settings and service account, secrets auth key
-#define WIFI_SSID "Xperia Z1_100c"
-#define WIFI_PASSWORD "sweenruby"
+#define WIFI_SSID "XXXX" //name of he wifi
+#define WIFI_PASSWORD "XXXX" //password for the wifi
 int pins[4] = {D5, D6, D7, D8};
 
 void setup() {
